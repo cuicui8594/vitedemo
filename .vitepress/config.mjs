@@ -21,6 +21,10 @@ export default defineConfig({
       },
       {
         text: '前端基础', items: [
+          {
+            text: 'CSS', link: '/front-end-foundation/css',
+            text: 'JavaScript', link: '/front-end-foundation/javascript'
+          }
         ]
       },
       {
