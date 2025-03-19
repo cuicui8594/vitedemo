@@ -10,7 +10,7 @@
 
 ### 概念
 
-本质上，**webpack** 是一个用于现代 JavaScript 应用程序的 *静态模块打包工具*。当 webpack 处理应用程序时，它会在内部从一个或多个入口点构建一个[依赖图(dependency graph)](https://www.webpackjs.com/concepts/dependency-graph/)，然后将你项目中所需的每一个模块组合成一个或多个 *bundles*，它们均为静态资源，用于展示你的内容。【按需打包】
+本质上，**webpack** 是一个用于现代 JavaScript 应用程序的 *静态模块打包工具*。当 webpack 处理应用程序时，它会在内部从一个或多个入口点构建一个[依赖图(](https://www.webpackjs.com/concepts/dependency-graph/)，然后将你项目中所需的每一个模块组合成一个或多个 *bundles*，它们均为静态资源，用于展示你的内容。【按需打包】
 
 > webpack在node中运行
 
@@ -226,7 +226,6 @@ plugins: [
 
 > 配置 `webpack –watch` 执行，（在本地文件夹中访问）代码发生变化时自动更新打包。
 >
-> ![image-20230222152155721](构建工具.assets/image-20230222152155721-1677050518425-1.png)
 
 ### grunt/glup的对比
 
