@@ -1333,9 +1333,6 @@ f1(p);
 console.log(p.name); // 4. 这个输出什么？
 ```
 
-示例图：
-![Complex Data Type Pass](image_url)
-
 ## JS 基础阶段以及 Web APIs 阶段
 
 ### JS 基础阶段
