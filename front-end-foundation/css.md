@@ -1091,9 +1091,6 @@ SEO 的目的是对网站进行深度的优化，从而帮助网站获取免费�
 - **旋转**：`rotate`
 - **缩放**：`scale`
 
-示例图：
-![Transform Example](image_url)
-
 ## 1.2 2D 转换之移动 `translate`
 
 ### 1. 语法
