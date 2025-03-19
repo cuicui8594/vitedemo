@@ -25,6 +25,14 @@ export default defineConfig({
       },
       {
         text: '前端前置', items: [
+          {
+            text: 'NodeJs', link: '/front-end-pre-course/nodeJs'
+          }, {
+            text: '构建工具', link: '/front-end-pre-course/webPack'
+          },
+          {
+            text: 'Git', link: '/front-end-pre-course/git'
+          }
         ]
       },
       {
